@@ -9,6 +9,14 @@ export const metadata: Metadata = {
   title: "Kinetic — RAG Personal Trainer",
   description:
     "A retrieval-augmented coach: ask training questions, get answers grounded in a curated knowledge base.",
+  icons: {
+    icon: "/icon.svg",
+  },
+  openGraph: {
+    title: "Kinetic — RAG Personal Trainer",
+    description: "Train with answers that have receipts. Grounded in a curated KB.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
