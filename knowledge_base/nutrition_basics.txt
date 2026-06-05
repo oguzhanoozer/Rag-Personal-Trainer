@@ -1,0 +1,323 @@
+BESLENME TEMELLERİ VE SPORCU DİYETİ
+
+Fitness hedeflerinize ulaşmak için beslenme, antrenman kadar önemlidir. "Mutfakta kilo verilir, spor salonunda kas yapılır."
+
+MAKRO BESİNLER
+
+1. PROTEİN
+Kas yapımı ve onarımı için kritik.
+
+Günlük İhtiyaç:
+- Sedanter: 0.8g/kg vücut ağırlığı
+- Aktif: 1.2-1.6g/kg
+- Kas yapımı: 1.6-2.2g/kg
+- Kilo verme: 2-2.4g/kg (kas koruma)
+
+En İyi Protein Kaynakları:
+Hayvansal:
+- Tavuk göğsü: 31g protein/100g
+- Sığır eti (yağsız): 26g/100g
+- Balık (somon): 25g/100g
+- Yumurta: 6g/adet
+- Yunan yoğurdu: 10g/100g
+- Peynir (beyaz): 18g/100g
+
+Bitkisel:
+- Mercimek: 9g/100g (pişmiş)
+- Nohut: 8g/100g (pişmiş)
+- Kinoa: 4g/100g (pişmiş)
+- Tofu: 8g/100g
+- Badem: 21g/100g
+- Chia tohumu: 16g/100g
+
+Zamanlama:
+- Antrenman sonrası 30 dk içinde: 20-25g
+- Gün boyunca eşit dağıtılmış: Her 3-4 saatte 20-30g
+- Yatmadan önce: 20-40g (kazein tercih et)
+
+2. KARBONHİDRAT
+Enerji kaynağı, glikojen depoları.
+
+Günlük İhtiyaç:
+- Düşük aktivite: 3-5g/kg
+- Orta aktivite: 5-7g/kg
+- Yüksek aktivite: 7-10g/kg
+- Çok yüksek: 10-12g/kg
+
+Kompleks Karbonhidratlar (Tercih Edilmeli):
+- Yulaf: 66g/100g
+- Esmer pirinç: 77g/100g
+- Tam buğday ekmeği: 49g/100g
+- Tatlı patates: 20g/100g
+- Kinoa: 21g/100g (pişmiş)
+
+Basit Karbonhidratlar (Zamanlama Önemli):
+- Muz: Antrenman öncesi/sonrası
+- Bal: Hızlı enerji
+- Hurma: Antrenman öncesi
+- Beyaz pirinç: Antrenman sonrası
+
+Zamanlama:
+- Antrenman öncesi (2-3 saat): Kompleks karb
+- Antrenman öncesi (30 dk): Basit karb
+- Antrenman sonrası: Hızlı emilimli karb + protein
+- Gece: Düşük karbonhidrat
+
+3. SAĞLIKLI YAĞLAR
+Hormon üretimi, hücre fonksiyonu, beyin sağlığı.
+
+Günlük İhtiyaç:
+- Toplam kalorinin %20-35'i
+- Minimum: 0.5g/kg vücut ağırlığı
+- Optimal: 0.8-1.2g/kg
+
+En İyi Yağ Kaynakları:
+Omega-3 (Balık yağı):
+- Somon, uskumru, sardalya
+- Keten tohumu
+- Chia tohumu
+- Ceviz
+
+Tekli doymamış yağlar:
+- Zeytinyağı
+- Avokado
+- Fındık, badem
+- Yer fıstığı
+
+Çoklu doymamış:
+- Ayçiçek yağı
+- Mısır yağı (sınırlı)
+
+Doymuş yağlar (Sınırlı):
+- Hindistan cevizi yağı
+- Tereyağı (otlu besleme)
+
+Kaçınılması Gerekenler:
+- Trans yağlar
+- İşlenmiş yağlar
+- Kızartma yağları
+
+KALORİ HESAPLAMA
+
+1. Bazal Metabolizma Hızı (BMR)
+Harris-Benedict Formülü:
+
+Erkekler: BMR = 88.362 + (13.397 × kg) + (4.799 × cm) - (5.677 × yaş)
+Kadınlar: BMR = 447.593 + (9.247 × kg) + (3.098 × cm) - (4.330 × yaş)
+
+2. Toplam Günlük Enerji Harcaması (TDEE)
+BMR × Aktivite Faktörü:
+- Sedanter (ofis işi): BMR × 1.2
+- Hafif aktif (haftada 1-3 gün): BMR × 1.375
+- Orta aktif (haftada 3-5 gün): BMR × 1.55
+- Çok aktif (haftada 6-7 gün): BMR × 1.725
+- Aşırı aktif (günde 2x antrenman): BMR × 1.9
+
+3. Hedef Kalori
+Kilo vermek için: TDEE - 500 (haftada 0.5 kg)
+Kilo almak için: TDEE + 300-500 (temiz bulk)
+Korumak için: TDEE
+
+MAKRO DAĞILIMI
+
+Kas Yapımı (Bulk):
+- Protein: %30 (2g/kg)
+- Karbonhidrat: %40-50
+- Yağ: %20-30
+
+Kilo Verme (Cut):
+- Protein: %35-40 (2.2-2.4g/kg)
+- Karbonhidrat: %30-35
+- Yağ: %25-30
+
+Dengeli Beslenme (Maintain):
+- Protein: %30
+- Karbonhidrat: %40
+- Yağ: %30
+
+ÖRNEK BESLENME PROGRAMLARI
+
+2000 Kalorilik Kas Yapımı Menüsü:
+Kahvaltı (600 kcal):
+- 3 yumurta + 2 yumurta beyazı
+- 80g yulaf + 1 muz
+- 20g badem
+
+Ara Öğün 1 (300 kcal):
+- Protein shake (25g protein)
+- 1 elma
+- 15g fıstık ezmesi
+
+Öğle (600 kcal):
+- 200g tavuk göğsü
+- 150g esmer pirinç
+- Karışık salata + zeytinyağı
+
+Ara Öğün 2 (300 kcal):
+- 200g Yunan yoğurdu
+- 50g granola
+- Meyve
+
+Akşam (600 kcal):
+- 200g somon
+- 200g tatlı patates
+- Brokoli + havuç
+
+Gece Atıştırması (200 kcal):
+- 200g süzme peynir
+- 10 badem
+
+1800 Kalorilik Yağ Yakımı Menüsü:
+Kahvaltı (450 kcal):
+- 2 yumurta + 3 yumurta beyazı
+- 50g yulaf
+- 150g meyve
+
+Ara Öğün (250 kcal):
+- Protein shake
+- 1 küçük muz
+
+Öğle (500 kcal):
+- 150g tavuk
+- 100g kinoa
+- Bol salata
+
+Ara Öğün (200 kcal):
+- 150g Yunan yoğurdu
+- 10g bal
+
+Akşam (400 kcal):
+- 150g balık
+- 150g sebze
+- Avokado salata
+
+TAKVİYELER
+
+Temel Takviyeler:
+1. Whey Protein
+   - Ne zaman: Antrenman sonrası
+   - Miktar: 25-30g
+   - Fayda: Hızlı protein sentezi
+
+2. Kreatin Monohidrat
+   - Ne zaman: Her gün 5g (zamanlama önemsiz)
+   - Fayda: Güç ve performans artışı
+
+3. Omega-3
+   - Ne zaman: Öğünlerle
+   - Miktar: 2-3g EPA+DHA
+   - Fayda: İnflamasyon, kalp sağlığı
+
+4. Vitamin D
+   - Ne zaman: Sabah, öğünle
+   - Miktar: 2000-4000 IU
+   - Fayda: Kemik sağlığı, immün sistem
+
+Opsiyonel (Faydalı):
+- BCAA: Uzun antrenmanlar için
+- Beta-Alanin: Dayanıklılık
+- Kafein: Pre-workout enerji
+- Multivitamin: Genel sağlık
+
+ANTRENMAN BESLENMESİ
+
+Antrenman Öncesi (2-3 saat):
+Tam öğün:
+- 40-50g protein
+- 60-80g kompleks karbonhidrat
+- 10-15g yağ
+
+Örnek: Tavuk + esmer pirinç + salata
+
+Antrenman Öncesi (30-60 dk):
+Hafif atıştırma:
+- 20-30g hızlı karbonhidrat
+- İsteğe bağlı: 10g protein
+
+Örnek: Muz + protein shake
+
+Antrenman Sırası:
+- Su (bol miktarda)
+- Uzun antrenman (90+ dk): BCAA veya karb içeceği
+
+Antrenman Sonrası (30 dk içinde):
+Altın pencere:
+- 25-30g hızlı protein (whey)
+- 40-60g karbonhidrat
+- Düşük yağ
+
+Örnek: Whey shake + muz + bal
+
+HİDRASYON
+
+Günlük İhtiyaç:
+- Temel: 30-35ml/kg vücut ağırlığı
+- Aktif: + 500-1000ml
+- Antrenman: + 400-800ml/saat
+
+İşaretler:
+İyi hidrasyon: Açık sarı idrar
+Dehidrasyon: Koyu sarı/turuncu idrar
+
+Strateji:
+- Sabah: 500ml su
+- Gün boyu: Her saat 250ml
+- Antrenman öncesi: 500ml (2 saat önce)
+- Antrenman sırası: 150-250ml/15 dk
+- Antrenman sonrası: Kayıp ağırlığın %150'si
+
+ÖZEL DİYETLER
+
+Vegan/Vegetarian:
+- Protein kaynakları: Baklagiller, tofu, tempeh, kinoa
+- B12 takviyesi şart
+- Demir: Koyu yapraklı sebzeler + C vitamini
+- Protein tozu: Bezelye, pirinç proteini
+
+Ketojenik:
+- Makrolar: 70-75% yağ, 20-25% protein, 5-10% karb
+- Adaptation süresi: 2-4 hafta
+- Egzersiz performansı başta düşebilir
+- Elektrolit dengesine dikkat
+
+Intermittent Fasting:
+- 16:8 protokolü en popüler
+- Antrenman zamanlaması önemli
+- Protein hedefini karşılamaya odaklan
+- Başlangıçta zorluk normal
+
+BESLENME HATALARI
+
+1. Kalori hesabını yanlış yapmak
+2. Protein yetersiz tüketmek
+3. Sağlıklı yağları ihmal etmek
+4. Antrenman sonrası beslenmeyi atlamak
+5. Su içmeyi unutmak
+6. Çok kısıtlayıcı diyet (sürdürülemez)
+7. Mikro besinleri görmezden gelmek
+8. Uyku ve stresi ihmal etmek
+
+UZUN VADELİ BAŞARI İPUÇLARI
+
+1. Sürdürülebilir bir plan yap
+2. Esneklik tanı (%80-20 kuralı)
+3. Yemek hazırlığı yap (meal prep)
+4. İlerlemeni takip et (app kullan)
+5. Sabırlı ol (12-16 hafta)
+6. Profesyonel yardım al (diyetisyen)
+7. Lifestyle değişikliği olarak gör
+
+PERFORMANS İÇİN BESİN ZAMANLAMASİ
+
+Sabah antrenmanları:
+- Açlık kardiyo (LISS) → OK
+- Güç antrenmanı → Hafif karbonhidrat şart
+
+Akşam antrenmanları:
+- Normal öğün düzeni
+- Antrenman sonrası akşam yemeği yeterli
+
+Gün içinde birden fazla antrenman:
+- Her antrenman arası beslenme kritik
+- Hızlı emilimli besinler tercih et
+- Recovery'ye ekstra özen

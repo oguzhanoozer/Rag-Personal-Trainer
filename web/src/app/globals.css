@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+/* Kinetic — RAG personal trainer
+ * Lab-clean white × signal lime × graphite × electric blue accent
+ */
+:root {
+  --background: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #ededea;
+  --foreground: #0a0a0a;
+  --muted: #525252;
+  --muted-2: #a3a3a3;
+  --border: #e5e5e2;
+  --border-strong: #d4d4d0;
+
+  --brand-50: #ecfccb;
+  --brand-100: #d9f99d;
+  --brand-300: #a3e635;
+  --brand-500: #65a30d;   /* signal lime */
+  --brand-600: #4d7c0f;
+  --brand-700: #365314;
+
+  --accent: #2563eb;     /* electric blue */
+  --accent-soft: #dbeafe;
+
+  --shadow-soft: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px -10px rgba(0,0,0,0.10);
+  --shadow-lift: 0 20px 48px -20px rgba(101, 163, 13, 0.30);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-brand-50: var(--brand-50);
+  --color-brand-100: var(--brand-100);
+  --color-brand-500: var(--brand-500);
+  --color-brand-600: var(--brand-600);
+  --color-brand-700: var(--brand-700);
+  --color-accent: var(--accent);
+
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-syne), system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", monospace;
+}
+
+* { border-color: var(--border); box-sizing: border-box; }
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  background-image:
+    radial-gradient(ellipse 900px 400px at 0% -10%, rgba(101, 163, 13, 0.10), transparent 60%),
+    radial-gradient(ellipse 700px 300px at 100% 0%, rgba(37, 99, 235, 0.06), transparent 55%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--brand-500); }
+
+@keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.fade-up { animation: fadeUp 0.5s ease-out forwards; }
+.fade-up-1 { animation: fadeUp 0.5s ease-out 0.08s both; }
+.fade-up-2 { animation: fadeUp 0.5s ease-out 0.16s both; }
+.fade-up-3 { animation: fadeUp 0.5s ease-out 0.24s both; }
+
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.55; } }
+.pulse { animation: pulse 2s ease-in-out infinite; }

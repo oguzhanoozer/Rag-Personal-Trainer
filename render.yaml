@@ -1,0 +1,30 @@
+# Kinetic — RAG Personal Trainer
+# FastAPI backend (Docker) + Next.js web frontend.
+
+services:
+  - type: web
+    name: kinetic-api
+    runtime: docker
+    region: frankfurt
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+
+  - type: web
+    name: kinetic-web
+    runtime: node
+    region: frankfurt
+    plan: free
+    rootDir: web
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: API_URL
+        fromService:
+          name: kinetic-api
+          type: web
+          property: host   # → kinetic-api.onrender.com (prefix with https:// in next.config)
